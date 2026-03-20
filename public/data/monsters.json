@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Rathalos",
+        "type": "Wyvern volador",
+        "treath": 5,
+        "elements": [
+            "FIRE",
+            "POISON"
+        ],
+        "weakness": [
+            "DRACO",
+            "ICE",
+            "THUNDER",
+            "WATER"
+        ],
+        "imgUrl": "/monsters/rathalos.webp"
+    },{
+        "name": "Gore Magala",
+        "type": "Dragón semi anciano",
+        "treath": 6,
+        "elements": [],
+        "weakness": [
+            "DRACO",
+            "FIRE",
+            "THUNDER"
+        ],
+        "imgUrl": "/monsters/gore-magala.png"
+    },{
+        "name": "Gore Magala Caótico",
+        "type": "Dragón semi anciano",
+        "treath": 7,
+        "elements": [],
+        "weakness": [
+            "DRACO",
+            "FIRE",
+            "THUNDER"
+        ],
+        "imgUrl": "/monsters/gore-magala-caotico.webp"
+    },{
+        "name": "Shagaru Magala",
+        "type": "Dragón anciano",
+        "treath": 10,
+        "elements": [],
+        "weakness": [
+            "DRACO",
+            "FIRE"
+        ],
+        "imgUrl": "/monsters/shagaru-magala.webp"
+    },{
+        "name": "Zinogre",
+        "type": "Bestia de colmillos",
+        "treath": 6,
+        "elements": [
+            "THUNDER",
+            "PARALYSIS"
+        ],
+        "weakness": [
+            "ICE"
+        ],
+        "imgUrl": "/monsters/zinogre.webp"
+    },{
+        "name": "Mizutsune",
+        "type": "Leviatán",
+        "treath": 6,
+        "elements": [
+            "WATER"
+        ],
+        "weakness": [
+            "THUNDER",
+            "FIRE",
+            "DRACO"
+        ],
+        "imgUrl": "/monsters/mizutsune.png"
+    },{
+        "name": "Seregios",
+        "type": "Wyvern volador",
+        "treath": 8,
+        "elements": [
+            "BLEEDING"
+        ],
+        "weakness": [
+            "THUNDER",
+            "ICE"
+        ],
+        "imgUrl": "/monsters/seregios.webp"
+    }
+]   
